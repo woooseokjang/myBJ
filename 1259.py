@@ -1,3 +1,4 @@
+# https://www.acmicpc.net/problem/1259
 while True:
     n = input()
     if n == '0':

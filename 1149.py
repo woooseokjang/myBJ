@@ -1,4 +1,4 @@
-
+# https://www.acmicpc.net/problem/1149
 def min(a, b):
     if a < b:
         return a

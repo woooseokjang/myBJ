@@ -1,3 +1,4 @@
+# https://www.acmicpc.net/problem/1436
 n = int(input())
 hit = 0
 i = 0

@@ -1,3 +1,4 @@
+# https://www.acmicpc.net/problem/1003
 zero = [1, 0, 1]
 one = [0, 1, 1]
 
